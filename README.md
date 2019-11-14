@@ -1,4 +1,4 @@
-"# wechat_app_spider" 
+# wechat_app_spider
 
 
 `airtest_mumu.py` 使用 网易mumu手机模拟器 配合 airtest 抓取公众号信息
